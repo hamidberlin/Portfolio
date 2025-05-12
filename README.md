@@ -39,7 +39,7 @@ open index.html
 Autor
 Name: Hamid Vahed
 
-GitHub: 
+GitHub: https://github.com/hamidberlin
 
 Website: 
 
