@@ -28,7 +28,7 @@ Willkommen zu meinem persönlichen Portfolio! Dieses Projekt zeigt meine Fähigk
 1. Repository klonen:
 
 ```bash
-git clone https://github.com/dein-nutzername/portfolio.git
+git clone https://github.com/hamidberlin/Portfolio.git
 
 
 Öffne die Datei index.html in deinem Browser:
