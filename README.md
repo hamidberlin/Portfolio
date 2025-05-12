@@ -35,7 +35,6 @@ git clone https://github.com/hamidberlin/Portfolio.git
 
 cd portfolio
 open index.html
-Es sind keine zusätzlichen Abhängigkeiten oder Server erforderlich. Läuft vollständig lokal.
 
 Autor
 Name: Hamid Vahed
