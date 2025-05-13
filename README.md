@@ -28,19 +28,18 @@ Willkommen zu meinem persönlichen Portfolio! Dieses Projekt zeigt meine Fähigk
 1. Repository klonen:
 
 ```bash
-git clone https://github.com/dein-nutzername/portfolio.git
+git clone https://github.com/hamidberlin/Portfolio.git
 
 
 Öffne die Datei index.html in deinem Browser:
 
 cd portfolio
 open index.html
-Es sind keine zusätzlichen Abhängigkeiten oder Server erforderlich. Läuft vollständig lokal.
 
 Autor
 Name: Hamid Vahed
 
-GitHub: 
+GitHub: https://github.com/hamidberlin
 
 Website: 
 
