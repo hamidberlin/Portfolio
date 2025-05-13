@@ -45,8 +45,9 @@ scrollTopBtn.onclick = function () {
   });
 };
 
+// JavaScript-Alert und Reset-Funktion für Formular implementiert
 document.getElementById("form").addEventListener("submit", function (e) {
-  e.preventDefault(); // verhindert das tatsächliche Absenden
+  e.preventDefault(); 
   alert("Vielen Dank für Ihre Nachricht!");
-  this.reset(); // optional: Formular leeren
+  this.reset(); 
 });
